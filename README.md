@@ -46,8 +46,8 @@ Con un gráfico de barras alineado para mostrar el número de especies observado
 
 # Insight_1 - Visualización 2.  
 Cómo el gráfico de barras fue insuficiente para poder visualizar la información suficiente para determinar las aves que fueron observadas en mayor número en La Conejera, se usó un diagrama de burbujas para poder identificar por tamaño las más abundantes.
-## Puedes jugar con el gráfico!!!.
-Al PASAR el mousse sobre las burbujas de las diferentes especies puedes observar información adicional de su taxonomía y ubicación.
-Al hacer CLICK sobre la burbuja observarás datos adicionales sobre el clima en el que fueron observadas.
+## Explore  el gráfico!!!.
+Al PASAR el mousse sobre las burbujas de las diferentes especies puede observar información adicional de su taxonomía y ubicación.
+Al hacer CLICK sobre la burbuja observará datos adicionales sobre el clima en el que fueron registradas.
 
 
