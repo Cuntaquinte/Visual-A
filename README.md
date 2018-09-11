@@ -19,10 +19,10 @@ El grupo de monitoreo en biodiversidad de la Secretaría Distrital de Ambiente �
 
 Datos libres disponibles en: http://datos.biodiversidad.co/dataset/4b04f487-712e-4ade-80fb-14e45f32e5f4`
 
-md`#md Objetivos del proyecto:
-El proyecto se enmarca pensando en un cliente imaginario de una empresa de Ecoturismo para la ciudad de Bogotá que busca incrementar las visitas a los PEDH y disfrutar de atracciones naturales como lo es la observación de aves. De los diferentes PEDH de la ciudad de Bogotá el más grande y biodiverso es el humedal de La Conejera, por lo que es de interés para nuestro cliente explorar las diferentes especies de aves reportadas en el parque para promocionar su observación como parte de la propaganda ecoturística`
+# Objetivos del proyecto:
+El proyecto se enmarca pensando en un cliente imaginario de una empresa de Ecoturismo para la ciudad de Bogotá que busca incrementar las visitas a los PEDH y disfrutar de atracciones naturales como lo es la observación de aves. De los diferentes PEDH de la ciudad de Bogotá el más grande y biodiverso es el humedal de La Conejera, por lo que es de interés para nuestro cliente explorar las diferentes especies de aves reportadas en el parque para promocionar su observación como parte de la propaganda ecoturística
 
-md`# Insigth_1 - Buscar las especies de aves más abundantes en el PEDH La Conejera
+# Insigth_1 - Buscar las especies de aves más abundantes en el PEDH La Conejera
 ##  Explorar las especies de aves observables en el PEDH La Conejera. 
 Partimos de un cliente imaginario que tiene una empresa de ecoturismo y pretende fomentar las visitas al Humedal la Conejera mostrando las aves que se pueden observar dentro del parque haciendo uso de observaciones anteriores. Ya que entre las aves algunas son más fáciles o dificiles de observar debido a las diferencias en el número de individuos observables (abundancia) se debe tener en cuenta para la visualización
 ## What?
@@ -30,10 +30,10 @@ Los datos recolectados se encuentran en un dataset estático en forma de tabla c
 ## Why?
 Se pretende analizar la información disponible para descubrir dentro del humedal La Conejera cuales son las especies que fueron observadas un mayor número de veces durante el periodo de recolección de datos. Por lo tanto el target son las especies de aves - Search/Browse.
 ## How?
-Con un gráfico de barras alineado para mostrar el número de individuos observados para cada una de las especies reportadas (147). El gráfico permite seleccionar cada especie para describir en detalle la información del número de individuos reportados`
+Con un gráfico de barras alineado para mostrar el número de individuos observados para cada una de las especies reportadas (147). El gráfico permite seleccionar cada especie para describir en detalle la información del número de individuos reportados
 
 
-md`# Insigth_2 - Buscar los géneros de aves más abundantes en el PEDH La Conejera
+# Insigth_2 - Buscar los géneros de aves más abundantes en el PEDH La Conejera
 ##  Explorar los géneros de aves observables en el PEDH La Conejera y algunas condiciones para encontrarlas. 
 Ya que el interés de nuestro cliente es el de atraer personas para visitar el parque es importante rescatar información adicional para cada una de las especies reportadas. Ya que el número de especies de aves reportadas en La Conejera es de 147 y en la visualización del insight_1 es evidente la complejidad para reportar la totalidad de las especies; y adicionalmente pretendemos informar datos de interés para su búsqueda como lo son datos climáticos o de la metodología de muestreo, la visualización debe ser modificada. Para ello aprovechando la clasificación taxonómica de las diferentes aves se pueden agrupar por géneros taxonómicos definidos por características morfológicas similares 
 
@@ -42,12 +42,12 @@ Los datos recolectados se encuentran en un dataset estático en forma de tabla c
 ## Why?
 La visualización busca analizar los datos disponibles para los diferentes géneros de aves realizando una búsqueda de los datos del humedal La Conejera donde sea posible identificar las diferentes especies asociadas a las características climáticas y de muestreo con que fueron observadas. Para ello el target son las distribuciones del número de especies reportadas por género taxonómico. Analize-Discover Search/Browse Query-Identify.
 ## How?
-Con un gráfico de barras alineado para mostrar el número de especies observados para cada uno de los géneros taxonómicos reportados. El gráfico permite seleccionar cada especie para describir en detalle la información del número de individuos reportados y muestra patrones de clima como soleado o nublado y técnicas de muestreo como transecto (caminar para buscar el ave) o punto de observación (quedarse quieto en un punto donde se puede observar el ave)`
+Con un gráfico de barras alineado para mostrar el número de especies observados para cada uno de los géneros taxonómicos reportados. El gráfico permite seleccionar cada especie para describir en detalle la información del número de individuos reportados y muestra patrones de clima como soleado o nublado y técnicas de muestreo como transecto (caminar para buscar el ave) o punto de observación (quedarse quieto en un punto donde se puede observar el ave)
 
-md`# Insight_1 - Visualización 2.  
+# Insight_1 - Visualización 2.  
 Cómo el gráfico de barras fue insuficiente para poder visualizar la información suficiente para determinar las aves que fueron observadas en mayor número en La Conejera, se usó un diagrama de burbujas para poder identificar por tamaño las más abundantes.
 ## Puedes jugar con el gráfico!!!.
 Al PASAR el mousse sobre las burbujas de las diferentes especies puedes observar información adicional de su taxonomía y ubicación.
-Al hacer CLICK sobre la burbuja observarás datos adicionales sobre el clima en el que fueron observadas.`
+Al hacer CLICK sobre la burbuja observarás datos adicionales sobre el clima en el que fueron observadas.
 
 
