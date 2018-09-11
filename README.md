@@ -14,7 +14,7 @@ Requisitos
 -https://d3js.org/d3.v5.min.js
 
 
-md`# Tarea 2. Insigths. Aves de los Parques Ecológicos Distritales Humedales Bogotá, D.C. 
+# Tarea 2. Insigths. Aves de los Parques Ecológicos Distritales Humedales Bogotá, D.C. 
 El grupo de monitoreo en biodiversidad de la Secretaría Distrital de Ambiente –SDA, adscrito a la Subdirección de Ecosistemas y Ruralidad, presenta un consolidado de los registros biológicos de aves, producto del monitoreo de biodiversidad realizado a los Parques Ecológicos Distritales de Humedal (PEDH) durante el período de tiempo comprendido entre el 2 de julio de 2015 hasta el 19 de octubre de 2017. En este se incluye información del grupo biológico, localizados en los 15 Parques Ecológicos Distritales de Humedales (PEDH) declarados en el Distrito Capital. Dentro de los resultados obtenidos se tiene para el grupo de aves un total de 15.205 registros, para 119 especies en todos los PEDH del Distrito.
 
 Datos libres disponibles en: http://datos.biodiversidad.co/dataset/4b04f487-712e-4ade-80fb-14e45f32e5f4`
